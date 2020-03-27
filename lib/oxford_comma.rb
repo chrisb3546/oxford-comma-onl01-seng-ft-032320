@@ -5,7 +5,7 @@ if array.length == 1
   return array.join(" and ")
 elsif array.length == 3 
 array = array.join
-array = array.join(",")
+array = array.join(" and ")
 return array
 end
 end
