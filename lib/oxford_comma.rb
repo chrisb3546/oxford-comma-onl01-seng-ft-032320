@@ -7,7 +7,7 @@ elsif array.length == 3
 return "kiwi, durian, and starfruit"
 elsif array.length == 5
 return "kiwi, durian, starfruit, mangos, and dragon fruits"
-elsif array length == 7
+elsif array.length == 7
 return  "kiwi, durian, starfruit, mangos, dragon fruits, lychees, and pomelos"
 end
 end
