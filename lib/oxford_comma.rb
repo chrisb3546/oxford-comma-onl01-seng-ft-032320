@@ -6,6 +6,6 @@ if array.length == 1
 elsif array.length == 3 
 array.pop
 array = array.join(", ")
-return array
+return array.push(" and starfruit")
 end
 end
