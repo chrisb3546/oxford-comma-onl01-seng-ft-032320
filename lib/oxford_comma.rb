@@ -3,7 +3,8 @@ if array.length == 1
   return array.join
   elsif array.length == 2
   return array.join(" and ")
-elsif array.length == 3  
-return array.slice(1)
+elsif array.length == 3 
+sf = array.pop 
+return array.join(sf)
 end
 end
