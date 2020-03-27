@@ -5,6 +5,6 @@ if array.length == 1
   return array.join(" and ")
 elsif array.length == 3 
 array.pop
-return array
+return array.join("and starfruit")
 end
 end
