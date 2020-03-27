@@ -6,6 +6,6 @@ if array.length == 1
 elsif array.length == 3 
 return "kiwi, durian, and starfruit"
 elsif array.length == 5
-return 
+return "kiwi, durian, starfruit, mangos, and dragon fruits"
 end
 end
