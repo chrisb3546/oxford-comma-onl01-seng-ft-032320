@@ -6,6 +6,6 @@ if array.length == 1
 elsif array.length == 3 
 sf = " and starfruit" 
 array = array.join(", ")
-return array.str
+return array
 end
 end
