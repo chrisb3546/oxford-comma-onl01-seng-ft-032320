@@ -4,7 +4,6 @@ if array.length == 1
   elsif array.length == 2
   return array.join(" and ")
 elsif array.length == 3 
-array = array.join(",")
 
 return array
 end
