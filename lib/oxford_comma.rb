@@ -6,6 +6,6 @@ if array.length == 1
 elsif array.length == 3 
 sf = array.pop 
 array = array.join(", ")
-return array
+return array + 
 end
 end
